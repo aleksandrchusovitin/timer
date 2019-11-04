@@ -8,4 +8,9 @@ To use this script you must have:
 * hours 
 * minutes
 * seconds
- 
+
+
+How does it work
+----------------
+
+The script starts a timer, which updates the values ​​in the corresponding blocks in the markup every second. The timer stops when the "deadLine".
